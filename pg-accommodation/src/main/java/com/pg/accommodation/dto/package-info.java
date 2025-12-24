@@ -1,0 +1,1 @@
+package com.pg.accommodation.dto;
